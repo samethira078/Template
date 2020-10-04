@@ -1,0 +1,127 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url("../images/header_bg.jpg");
+	zoom: 100%;
+}
+.contact{
+	padding-left: 66.3%;
+	color: white;
+	display: block;
+	height: 37px;
+	font-size: 0;
+	background-color: white;
+	margin-bottom: 10%;
+}
+.contact i{
+	background-color: #C4C4C4;
+	width: 40px;
+	height: 25px;	
+	padding-top: 12px;
+	letter-spacing: 0;
+	font-size: 16px;
+	margin-left: 1px;
+}
+.contact a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	display: inline-block;
+}
+.logo{
+	margin: auto;
+	padding: auto;
+	display: block;
+	padding-top: 5%;
+}
+.inhoud i{
+	display: block;
+	color: #6D7274;
+	margin-bottom: 20px;
+}
+.inhoud a{
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	margin: 0px 40px;
+}
+.inhoud span{
+	color: #6D7274;
+}
+.inhoud{
+	margin: 0;
+	padding-top: 50px;
+	width: 100%;
+	text-align: center;
+}
+
+.container .tekst, .container .nav, .container .portfolio{
+	background-color: #FDFFFF;
+	height: auto;
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+	border: 1px solid lightgrey;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tekst, .nav{
+	margin-top: 5px;
+}
+.tekst, .nav, .portfolio p{
+	line-height: 20px;
+	margin: 20px;
+
+}
+.nav a{
+ 	text-decoration: none;
+	color: black;
+	padding: 5px 5px;
+	font-size: 18px;
+	margin-left: 30px;
+	border-bottom: 1px solid black;
+}
+.nav{
+	text-align: center;
+	padding-bottom: 20px;
+	margin: 0 auto;
+}
+.portfolio img{
+	display: block;
+	margin: 0 auto;
+	zoom: 25%;
+	border-radius: 200px;
+}
+.portfolio h1{
+	text-align: center;
+}
+#terugknop {
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	display: block;
+}
+.vraag, .vraagh1{
+	margin-left: 30px;
+}
+.vraag span{
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.vraag textarea{
+	height: 200px;
+	width: 400px;
+}
+.vraag input[type=submit]{
+	width: 200px;
+	height: 30px;
+	margin-bottom: 20px;
+}
+.vragen{
+	background-color: #FDFFFF;
+	height: auto;
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+	border: 1px solid lightgrey;
+	font-family: Arial, Helvetica, sans-serif;
+}
